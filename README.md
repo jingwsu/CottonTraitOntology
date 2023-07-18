@@ -1,0 +1,2 @@
+# CottonTraitOntology
+Cotton Trait Ontology
